@@ -1,0 +1,18 @@
+2021-06-30 09:06:815 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-30 09:06:755 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-30 09:06:618 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-30 09:06:56 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-30 09:06:638 INFO  HomePage :35 - Clicking on register tab element [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //a[contains(text(),'Register')]]
+2021-06-30 09:06:777 INFO  RegisterPage :48 - Entering first name :  to email field : [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //input[@id='FirstName']]
+2021-06-30 09:06:878 INFO  RegisterPage :54 - Entering last name : Patel to last name field : [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //input[@id='LastName']]
+2021-06-30 09:06:996 INFO  RegisterPage :60 - Entering email address : [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //input[@id='Email']] to email field : [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //input[@id='Email']]
+2021-06-30 09:06:123 INFO  RegisterPage :66 - Entering password : abc1234 to password field : [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //input[@id='Password']]
+2021-06-30 09:06:207 INFO  RegisterPage :72 - Entering confirm password : abc1234 to confirm password field : [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //input[@id='ConfirmPassword']]
+2021-06-30 09:06:273 INFO  RegisterPage :78 - Clicking on register button [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //button[@id='register-button']]
+2021-06-30 09:06:290 INFO  RegisterPage :84 - Getting empty mandatory field error message [[ChromeDriver: chrome on WINDOWS (c8a2b87cbf5e5559c2f3d571fe652358)] -> xpath: //span[@id='FirstName-error']]
+2021-06-30 09:06:983 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-30 09:06:971 INFO  HomePage :29 - Clicking on login tab element [[ChromeDriver: chrome on WINDOWS (0ab0071e6eddce2fd48b8adf552102fc)] -> xpath: //a[contains(text(),'Log in')]]
+2021-06-30 09:06:87 INFO  RegisterPage :60 - Entering email address : [[ChromeDriver: chrome on WINDOWS (0ab0071e6eddce2fd48b8adf552102fc)] -> xpath: //input[@id='Email']] to email field : [[ChromeDriver: chrome on WINDOWS (0ab0071e6eddce2fd48b8adf552102fc)] -> xpath: //input[@id='Email']]
+2021-06-30 09:06:188 INFO  RegisterPage :66 - Entering password : abc1234 to password field : [[ChromeDriver: chrome on WINDOWS (0ab0071e6eddce2fd48b8adf552102fc)] -> xpath: //input[@id='Password']]
+2021-06-30 09:06:218 INFO  LoginPage :49 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (0ab0071e6eddce2fd48b8adf552102fc)] -> xpath: //button[contains(text(),'Log in')]]
+2021-06-30 09:06:297 INFO  LoginPage :54 - Page Navigation with welcome Text from element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
